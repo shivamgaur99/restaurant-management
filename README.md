@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Restaurant Management System is a comprehensive solution for managing various aspects of restaurant operations. Developed using Java with Spring Boot framework, this application facilitates tasks such as menu management, order processing, customer management, and employee management. It utilizes Spring Data JPA for database interaction and employs an H2 in-memory database for storage.
+The Restaurant Management System is a comprehensive solution for managing various aspects of restaurant operations. Developed using Java with Spring Boot framework, this application facilitates tasks such as menu management, order processing, customer management, and employee management. 
 
 ## Features
 
@@ -24,7 +24,7 @@ The Restaurant Management System is a comprehensive solution for managing variou
 
 The project follows a modular structure, with each module responsible for a specific aspect of the restaurant management system:
 
-- **Controller**: Handles incoming HTTP requests and delegates to service classes.
+- **Controller**: Handles incoming HTTP requests.
 - **Service**: Contains business logic and interacts with repositories.
 - **Model**: Defines the structure of data entities.
 - **Repository**: Manages data access and persistence.
