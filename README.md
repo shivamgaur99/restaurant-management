@@ -17,8 +17,8 @@ The Restaurant Management System is a comprehensive solution for managing variou
 
 - **Java**
 - **Spring Boot**
-- **Spring Data JPA**
-- **H2 Database**
+- **React.js**
+- **MySQL Database**
 
 ## Project Structure
 
