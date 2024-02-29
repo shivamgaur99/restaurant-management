@@ -1,4 +1,41 @@
-# Restaurant Management System [ React.js , MySQL, Spring Boot ]
+# Restaurant Management System
+
+## Introduction
+
+The Restaurant Management System is a comprehensive solution for managing various aspects of restaurant operations. Developed using Java with Spring Boot framework, this application facilitates tasks such as menu management, order processing, customer management, and employee management. It utilizes Spring Data JPA for database interaction and employs an H2 in-memory database for storage.
+
+## Features
+
+- **Menu Management**: Create, update, and delete menu items.
+- **Order Processing**: Place orders, manage order status, and track order history.
+- **Customer Management**: Maintain customer records, track preferences, and manage loyalty programs.
+- **Employee Management**: Manage staff information, roles, and schedules.
+- **Reservation Management**: Accept and manage table reservations.
+- **Reporting and Analytics**: Generate reports on sales, inventory, and other key metrics.
+
+## Technology Stack
+
+- **Java**
+- **Spring Boot**
+- **Spring Data JPA**
+- **H2 Database**
+
+## Project Structure
+
+The project follows a modular structure, with each module responsible for a specific aspect of the restaurant management system:
+
+- **Controller**: Handles incoming HTTP requests and delegates to service classes.
+- **Service**: Contains business logic and interacts with repositories.
+- **Model**: Defines the structure of data entities.
+- **Repository**: Manages data access and persistence.
+
+## Usage
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/restaurant-management.git
+
 
 ## Installation
 
